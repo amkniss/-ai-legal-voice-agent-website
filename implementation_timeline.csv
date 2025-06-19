@@ -1,0 +1,5 @@
+phase,duration_weeks,activities,cost
+Phase 1: Setup,2,"['Platform setup', 'Voice training', 'Basic workflows']",5000
+Phase 2: Integration,3,"['Calendar sync', 'CRM connection', 'Testing']",7500
+Phase 3: Deployment,2,"['Live testing', 'Staff training', 'Fine-tuning']",3000
+Phase 4: Optimization,4,"['Performance monitoring', 'Script refinement', 'Analytics setup']",4000

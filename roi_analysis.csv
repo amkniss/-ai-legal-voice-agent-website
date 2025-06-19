@@ -1,0 +1,6 @@
+metric,traditional_hours,automated_hours,savings_percent,traditional_cost,automated_cost,traditional_percent,automated_percent,improvement_percent
+Time Savings,2.5,0.5,80.0,,,,,
+Cost per Lead,,,70.0,150.0,45.0,,,
+Conversion Rate,,,,,,15.0,25.0,67.0
+Response Time,24.0,0.25,,,,,,99.0
+Data Accuracy,,,,,,75.0,95.0,27.0

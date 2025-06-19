@@ -1,0 +1,10 @@
+module_id,name,type,function,connections
+1,Webhook - Retell Integration,Webhook,Receive voice agent data,"[2, 3]"
+2,OpenAI - Data Analysis,AI Processing,Analyze and score lead data,[4]
+3,Google Sheets - Data Storage,Database,Store client information,[5]
+4,Router - Decision Logic,Control Flow,Route based on priority/score,"[6, 7]"
+5,Google Calendar - Scheduling,Calendar,Book appointment slots,[8]
+6,Gmail - High Priority Alert,Email,Immediate lawyer notification,[9]
+7,Gmail - Standard Summary,Email,Regular intake summary,[9]
+8,Twilio - SMS Confirmation,SMS,Send appointment confirmation,[9]
+9,Final Processing,Completion,Update records and close scenario,[]

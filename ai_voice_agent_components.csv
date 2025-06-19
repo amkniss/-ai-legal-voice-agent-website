@@ -1,0 +1,5 @@
+component,technology,function,key_features,estimated_cost_monthly,roi_potential
+Voice Intake Agent,Retell + ElevenLabs,Conversational data gathering,"['Friendly tone', 'Empathetic responses', 'Data validation', 'Call recording']",$200-500,40-60% time savings
+Claim Value Analyzer,OpenAI GPT + Custom Logic,Lead scoring and prioritization,"['Severity assessment', 'Value scoring', 'Urgency detection', 'Risk analysis']",$50-150,30% better case selection
+Scheduling Agent,Google Calendar/Outlook API,Appointment booking,"['Calendar integration', 'Availability checking', 'Confirmation system', 'Reminder automation']",$25-75,50% faster scheduling
+Email Summary Agent,Make.com + Email APIs,Case documentation and communication,"['Structured summaries', 'Professional formatting', 'Auto-distribution', 'Follow-up tracking']",$30-100,75% admin time reduction

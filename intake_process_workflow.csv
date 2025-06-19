@@ -1,0 +1,7 @@
+step,action,duration_minutes,key_info
+1,Greeting & Rapport Building,1,"Name, contact verification"
+2,Incident Overview,3,What happened narrative
+3,Detailed Data Collection,5,"Date, location, injuries, treatment"
+4,Witness & Insurance Info,2,"Contact details, policy numbers"
+5,Scheduling Consultation,2,"Calendar availability, preferences"
+6,Summary & Next Steps,1,"Confirmation, documentation needed"
